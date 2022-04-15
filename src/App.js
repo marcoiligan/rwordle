@@ -47,7 +47,7 @@ function App() {
     for (let i = 0; i<5; i++){
       curWord += board[curAttempt.attempt][i]
     }
-    curWord += "\r"
+    //curWord += "\r"
     if (wordSet.has(curWord.toLowerCase())){
       setCurAttempt({attempt: curAttempt.attempt+1, letterPos: 0})
     }else {

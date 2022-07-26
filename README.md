@@ -1,3 +1,6 @@
+Hi my name is Marco an aspiring software engineer. I have majority of my experience with backend and Database development. Recently I started my hands on web technolgy more specifically ReactJS along with expanding my tech horizon into Python and AWS (Certified Solutions Architect Associate). I am here uploading mini projects that can help boost my analytical skills and knowledge and make sure I am updated with current technologies.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

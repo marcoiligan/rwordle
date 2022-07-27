@@ -1,5 +1,10 @@
 Hi my name is Marco an aspiring software engineer. I have majority of my experience with backend and Database development. Recently I started my hands on web technolgy more specifically ReactJS along with expanding my tech horizon into Python and AWS (Certified Solutions Architect Associate). I am here uploading mini projects that can help boost my analytical skills and knowledge and make sure I am updated with current technologies.
 
+This is my version of the popular Wordle. It has almost all the functionality of the original except for the ranking (didnt include it yet). I still have some problems when resizing the website and im currently working on my css skills for that and I know I still have a lot to learn. I used ReactJS to develope the site and I uploaded it in Cloudflare.
+
+This is the link for the website:
+https://rwordle-clone.pages.dev/
+
 
 # Getting Started with Create React App
 
